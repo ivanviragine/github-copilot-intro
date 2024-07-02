@@ -119,13 +119,6 @@ O projeto irá comparar dados de 2 ações da bolsa de valores.
 - Funções complexas
 - Linguagens menos populares
 
-**Outras Ferramentas:**
-
-- [ChatGPT (GPT-4 ou GPT-4o) - para problemas mais complexos](https://chat.openai.com/)
-- [CodeGemma - Modelo aberto da Google](https://huggingface.co/google/codegemma-7b)
-- [CodeLlama - Modelo aberto da  Meta](https://github.com/meta-llama/codellama)
-- [CodeGPT - Plugin para modelos abertos e offline](https://codegpt.co/)
-
 ## 👽 Futuro
 
 - **Extensions**: Integração com ferramentas como Sentry para interação utilizando linguagem natural, sem sair da IDE.
@@ -141,6 +134,15 @@ O projeto irá comparar dados de 2 ações da bolsa de valores.
 - Para problemas mais complexos, com muito contexto e/ou aprender algo, discutir arquitetura, provavelmente o GPT-4o será melhor.
 
 ## 🤓 Material Complementar
+
+**Outras Ferramentas:**
+
+- [ChatGPT (GPT-4 ou GPT-4o) - para problemas mais complexos](https://chat.openai.com/)
+- [CodeGemma - Modelo aberto da Google](https://huggingface.co/google/codegemma-7b)
+- [CodeLlama - Modelo aberto da  Meta](https://github.com/meta-llama/codellama)
+- [CodeGPT - Plugin para modelos abertos e offline](https://codegpt.co/)
+
+**Links Úteis:**
 
 - [GitHub Copilot](https://github.com/features/copilot)
 - [Dicas de como usar](https://github.blog/2024-03-25-how-to-use-github-copilot-in-your-ide-tips-tricks-and-best-practices/)
