@@ -1,0 +1,10 @@
+@workspace /new scaffold code for a project with Python, Streamlit, Docker, and Docker Compose to compare two stocks performances.
+
+- The API should get data from Yahoo Finance using the yfinance library.
+- The Streamlit interface should be as follows:
+  1) One input field for the first stock ticker (defaults to APPL)
+  2) One input field for the second stock ticker (defaults to NVDA).
+  3) A button to submit the form with text "Compare".
+  4) A line chart showing the stock prices of the two stocks.
+- Do not add comments to the file names.
+- Name the Dockerfile file as Dockerfile.stocks.
