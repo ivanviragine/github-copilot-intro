@@ -4,7 +4,9 @@
 - The Streamlit interface should be as follows:
   1) One input field for the first stock ticker (defaults to APPL)
   2) One input field for the second stock ticker (defaults to NVDA).
-  3) A button to submit the form with text "Compare".
-  4) A line chart showing the stock prices of the two stocks.
+  3) A button to submit the stocks tickers with text "Compare".
+  4) A line chart showing the stock prices of the two stocks (if button is clicked).
 - Do not add comments to the file names.
 - Name the Dockerfile file as Dockerfile.stocks.
+- Be sure to add all requirements to requirements.txt.
+- Make a bash script to run localy and other to run on docker.

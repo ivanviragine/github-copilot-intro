@@ -1,0 +1,23 @@
+{
+  "name": "tdc",
+  "version": "1.0.0",
+  "description": "Apresentação introdutória sobre GitHub Copilot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanviragine/github-copilot-intro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivanviragine/github-copilot-intro/issues"
+  },
+  "homepage": "https://github.com/ivanviragine/github-copilot-intro#readme",
+  "dependencies": {
+    "reveal.js": "^5.1.0"
+  }
+}

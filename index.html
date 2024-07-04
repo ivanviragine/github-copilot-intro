@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>GitHub Copilot Presentation</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <link rel="stylesheet" href="node_modules/reveal.js/dist/reveal.css">
+    <link rel="stylesheet" href="node_modules/reveal.js/dist/theme/moon.css" id="theme">
+</head>
+<body>
+    <style>
+        .reveal {
+            font-size: 18px;
+        }
+
+        .reveal h1 {
+            font-size: 2.75em;
+        }
+
+        .reveal h2 {
+            font-size: 2.25em;
+        }
+
+        .reveal h3 {
+            font-size: 2.0em;
+        }
+
+        .reveal p {
+            font-size: 1.5em;
+        }
+
+        .reveal li {
+            font-size: 1.5em;
+        }
+    </style>
+    <div class="reveal">
+        <div class="slides">
+            <section data-markdown="slides.md" data-separator="^\n---\n$" data-separator-vertical="^\n--\n$" data-separator-notes="^Note:"></section>
+        </div>
+    </div>
+    <script src="node_modules/reveal.js/dist/reveal.js"></script>
+    <script src="node_modules/reveal.js/plugin/markdown/markdown.js"></script>
+    <script src="node_modules/reveal.js/plugin/highlight/highlight.js"></script>
+    <script>
+        Reveal.initialize({
+            hash: true,
+            markdown: {
+                smartypants: true
+            },
+            disableLayout: false,
+            center: true,
+            plugins: [ RevealMarkdown, RevealHighlight ]
+        });
+    </script>
+</body>
+</html>
