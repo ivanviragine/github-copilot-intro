@@ -98,7 +98,7 @@ Nessa introdução rápida ao GitHub Copilot veremos:
 
 ## 👨‍💻 Mão na Massa
 
-Vamos fazer um projeto em Python, Streamlit, Poetry, Docker e Docker Compose inteiramente com o GitHub Copilot.
+Vamos fazer um projeto em Python, Streamlit, Docker e Docker Compose inteiramente com o GitHub Copilot.
 
 O projeto irá comparar dados de 2 ações da bolsa de valores.
 
