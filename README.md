@@ -2,13 +2,6 @@
 
 Este projeto contém os slides para o workshop intitulado **"GitHub Copilot: Conheça, Aprenda e Use em um Projeto Real do Zero em 15 Minutos"**. Os slides foram projetados para introduzir os participantes ao GitHub Copilot, cobrindo suas funcionalidades, benefícios e aplicações práticas em projetos do mundo real.
 
-## Instrutor
-
-**Ivan Nicola Viragine**
-
-- **LinkedIn**: [https://www.linkedin.com/in/ivan-viragine/](https://www.linkedin.com/in/ivan-viragine/)
-- **GitHub**: [https://github.com/ivanviragine](https://github.com/ivanviragine)
-
 ## Sobre o Workshop
 
 Este workshop tem como objetivo fornecer uma introdução abrangente ao GitHub Copilot, um programador parceiro de IA que ajuda os desenvolvedores sugerindo trechos de código e autocompletar. Os participantes aprenderão como integrar e usar o GitHub Copilot em seu fluxo de desenvolvimento, aprimorando a produtividade e a qualidade do código.
