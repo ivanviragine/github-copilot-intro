@@ -1,0 +1,6 @@
+# This file lists the Python dependencies required for the application.
+# Install these dependencies using pip.
+
+matplotlib
+streamlit
+yfinance

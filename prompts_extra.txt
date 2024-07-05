@@ -1,0 +1,16 @@
+# com o arquivo principal aberto (main.py)
+
+# fix warning on pyplot from streamlit
+/fix PyplotGlobalUseWarning: You are calling st.pyplot() without any arguments. After December 1st, 2020, we will remove the ability to do this as it requires the use of Matplotlib's global figure object, which is not thread-safe.
+
+# generate trends
+please add trends to the charts
+
+# color of trends
+please make the trends colors the same as the stocks'
+
+# generate periods
+please add a select for stocks' periods
+
+# generate polys selector
+please add a selector for the polynomial degree of the trend lines

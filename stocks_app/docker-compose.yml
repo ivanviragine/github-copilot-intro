@@ -1,0 +1,10 @@
+version: '3'
+services:
+  app:
+    build:
+      context: ./app
+      dockerfile: Dockerfile.stocks
+    ports:
+      - 8501:8501
+    volumes:
+      - ./app:/app
