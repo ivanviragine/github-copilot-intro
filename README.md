@@ -32,3 +32,5 @@ O prompt básico para o mão na massa está em [prompt.txt](prompt.txt).
 Os prompts complementares estão em [prompts_extra.txt](prompts_extra.txt).
 
 O código está em `./stocks_app` e o README.md está em [`./stocks_app/README.md`](stocks_app/README.md).
+
+![app](assets/app.png)
